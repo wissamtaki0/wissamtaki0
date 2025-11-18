@@ -15,7 +15,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff99&background=0F0F0F00&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentester;Developer" alt="Typing Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff99&background=0F0F0F00&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Pentester;Developer" alt="Typing Header"/>
 </p>
 
 ---
@@ -41,11 +41,12 @@
 <img align="left" alt="Kali Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg"/>
-<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg"/>
-<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg"/>
+<img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/images/icons/Nmap.svg"/>
+<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wireshark_logo_icon_170851.png"/>
+<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/metasploit.svg"/>
 <img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/burp-suite.svg"/>
 <br/><br/>
+
 
 ---
 
