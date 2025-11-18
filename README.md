@@ -1,25 +1,21 @@
 <!-- ========================================= -->
-<!--    ASCII BANNER -->
+<!--         CYBER-THEMED IMAGE BANNER         -->
 <!-- ========================================= -->
 
 <p align="center">
-  <pre>
- __      __.__                  .__       
-/  \    /  \  |__ _____    ____ |__| ____  
-\   \/\/   /  |  \\__  \  /    \|  |/ __ \ 
- \        /|   Y  \/ __ \|   |  \  \  ___/ 
-  \__/\  / |___|  (____  /___|  /__|\___  >
-       \/       \/     \/     \/        \/ 
-  </pre>
+  <img src="https://images.unsplash.com/photo-1601758173923-0a0c49e3b6a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTI1ODZ8MHwxfHNlYXJjaHwxfHxjeWJlciUyMHNlY3VyaXR5fGVufDB8fHx8MTY5Nzk4MjkxMw&ixlib=rb-4.0.3&q=80&w=800" 
+       alt="Cyber Banner" width="600"/>
 </p>
 
-# 🏄‍♂️ Wissam TAKI
+---
 
-**`Cybersecurity Student | Pentester | Developer`**
+<!-- ========================================= -->
+<!--         ANIMATED TYPING HEADER            -->
+<!-- ========================================= -->
 
-I'm a passionate cybersecurity student and aspiring penetration tester, always exploring how systems break—and how to secure them. I build tools, scripts, and small applications that solve real security challenges, from automating reconnaissance to testing vulnerabilities on labs and CTF environments.
-
-My work combines development and security: I enjoy designing solutions from scratch, auditing systems, and experimenting with modern security stacks (SIEM, ELK, Active Directory, cloud security, etc.). I share my progress, projects, and learning journey across my GitHub and other platforms as I grow in the cybersecurity field.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ff99&background=0F0F0F00&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentester;Developer" alt="Typing Header"/>
+</p>
 
 ---
 
