@@ -3,9 +3,10 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1601758173923-0a0c49e3b6a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTI1ODZ8MHwxfHNlYXJjaHwxfHxjeWJlciUyMHNlY3VyaXR5fGVufDB8fHx8MTY5Nzk4MjkxMw&ixlib=rb-4.0.3&q=80&w=800" 
-       alt="Cyber Banner" width="600"/>
+  <img src="./assets/security-breach-system-failure.jpg" alt="Cyber Banner" width="600"/>
 </p>
+
+
 
 ---
 
