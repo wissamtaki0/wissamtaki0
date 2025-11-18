@@ -41,11 +41,12 @@
 <img align="left" alt="Kali Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="https://share.google/images/y6LzODlFeX9WV6xWh"/>
-<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wireshark_logo_icon_170851.png"/>
-<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/metasploit.svg"/>
-<img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/burp-suite.svg"/>
+<img align="left" alt="Nmap" width="30px" style="padding-right:10px;" src="./assets/nmap.png"/>
+<img align="left" alt="Wireshark" width="30px" style="padding-right:10px;" src="./assets/wireshark.png"/>
+<img align="left" alt="Metasploit" width="30px" style="padding-right:10px;" src="./assets/metasploit.png"/>
+<img align="left" alt="Burp Suite" width="30px" style="padding-right:10px;" src="./assets/burpsuite.png"/>
 <br/><br/>
+
 
 
 ---
