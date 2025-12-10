@@ -29,9 +29,7 @@
   </a>
 </p>
 
-![Wissam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wissamtaki0&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissamtaki0&layout=compact&theme=gruvbox)
-![Trophies](https://github-profile-trophy.vercel.app/?username=wissamtaki0&theme=gruvbox&column=6)
+
 
 ---
 
